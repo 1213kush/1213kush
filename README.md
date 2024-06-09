@@ -8,5 +8,8 @@
 
 <!---
 1213kush/1213kush is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
+this was lose and gain 
+![image](https://github.com/1213kush/1213kush/assets/145777925/b41f08ba-aa90-4afa-9329-1a1793866420)
+![image](https://github.com/1213kush/1213kush/assets/145777925/a309ad2d-da0b-46c5-9267-eb7db1181521)
+
 --->
