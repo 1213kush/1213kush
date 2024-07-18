@@ -6,10 +6,7 @@
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
-- REQUIRMNETS ..
-- GOOGLE COLOAB
-- NETWROKX
-- DATASET
+
 
 <!---
 1213kush/1213kush is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
