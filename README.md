@@ -2,7 +2,7 @@
 - 👀 I’m interested in AI/ML
 - 🌱 I’m currently pursuing Btech in IT.
 - 💞️ I’m looking to collaborate with techies 
-- 📫 How to reach me ...
+- 📫 you can reach me :-ankushkumarpoddar05@gmail.com 
 - 😄 Pronouns: Ankush
 - ⚡ Fun fact: love with learn
 
