@@ -1,5 +1,6 @@
 - 👋 Hi, I’m @1213kush
 - 👀 I’m interested in AI/ML
+- Ex Research Intern IIT MANDI. 
 - 🌱 I’m currently pursuing Btech in IT.
 - 💞️ I’m looking to collaborate with techies 
 - 📫 you can reach me :-ankushkumarpoddar05@gmail.com 
